@@ -1,0 +1,165 @@
+\begin{thebibliography}{22}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Cakmak et~al.(2020)Cakmak, Astudillo~Marban, Frazier, and
+  Zhou]{Cakmak2020}
+S.~Cakmak, R.~Astudillo~Marban, P.~Frazier, and E.~Zhou.
+\newblock Bayesian optimization of risk measures.
+\newblock In H.~Larochelle, M.~Ranzato, R.~Hadsell, M.~F. Balcan, and H.~Lin,
+  editors, \emph{Advances in Neural Information Processing Systems}, volume~33,
+  pages 20130--20141. Curran Associates, Inc., 2020.
+\newblock URL
+  \url{https://proceedings.neurips.cc/paper/2020/file/e8f2779682fd11fa2067beffc27a9192-Paper.pdf}.
+
+\bibitem[Deng et~al.(2017)Deng, Bao, Kong, Ren, and Dai]{Deng2017}
+Y.~Deng, F.~Bao, Y.~Kong, Z.~Ren, and Q.~Dai.
+\newblock Deep direct reinforcement learning for financial signal
+  representation and trading.
+\newblock \emph{IEEE Transactions on Neural Networks and Learning Systems},
+  28\penalty0 (3):\penalty0 653--664, 2017.
+\newblock \doi{10.1109/TNNLS.2016.2522401}.
+
+\bibitem[Farrell and Correa(2007)]{Farrel2007}
+T.~Farrell and A.~Correa.
+\newblock Gaussian process regression models for predicting stock trends.
+\newblock 01 2007.
+
+\bibitem[Gardner et~al.(2018)Gardner, Pleiss, Bindel, Weinberger, and
+  Wilson]{gardner2018gpytorch}
+J.~R. Gardner, G.~Pleiss, D.~Bindel, K.~Q. Weinberger, and A.~G. Wilson.
+\newblock Gpytorch: Blackbox matrix-matrix gaussian process inference with gpu
+  acceleration.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2018.
+
+\bibitem[Ghavamzadeh et~al.(2015)Ghavamzadeh, Mannor, Pineau, and
+  Tamar]{Ghavamzadeh2016}
+M.~Ghavamzadeh, S.~Mannor, J.~Pineau, and A.~Tamar.
+\newblock Bayesian reinforcement learning: A survey.
+\newblock \emph{Found. Trends Mach. Learn.}, 8\penalty0 (5–6):\penalty0
+  359–483, 11 2015.
+\newblock ISSN 1935-8237.
+\newblock \doi{10.1561/2200000049}.
+\newblock URL \url{https://doi.org/10.1561/2200000049}.
+
+\bibitem[Hill et~al.(2018)Hill, Raffin, Ernestus, Gleave, Kanervisto, Traore,
+  Dhariwal, Hesse, Klimov, Nichol, Plappert, Radford, Schulman, Sidor, and
+  Wu]{stable-baselines}
+A.~Hill, A.~Raffin, M.~Ernestus, A.~Gleave, A.~Kanervisto, R.~Traore,
+  P.~Dhariwal, C.~Hesse, O.~Klimov, A.~Nichol, M.~Plappert, A.~Radford,
+  J.~Schulman, S.~Sidor, and Y.~Wu.
+\newblock Stable baselines.
+\newblock \url{https://github.com/hill-a/stable-baselines}, 2018.
+
+\bibitem[Jaakkola et~al.(1994)Jaakkola, Joradn, and Singh]{Jaakkola94}
+T.~Jaakkola, M.~I. Joradn, and S.~P. Singh.
+\newblock On the convergence of stochastic iterative dynamic programming
+  algorithms.
+\newblock \emph{Neural Computation}, 6\penalty0 (6):\penalty0 1185--1201, 1994.
+
+\bibitem[Jin et~al.(2018)Jin, Allen-Zhu, Bubeck, and Jordan]{Jin18QLearning}
+C.~Jin, Z.~Allen-Zhu, S.~Bubeck, and M.~I. Jordan.
+\newblock Is q-learning provably efficient?, 2018.
+
+\bibitem[Lillicrap et~al.(2019)Lillicrap, Hunt, Pritzel, Heess, Erez, Tassa,
+  Silver, and Wierstra]{Lillicrap2019}
+T.~P. Lillicrap, J.~J. Hunt, A.~Pritzel, N.~Heess, T.~Erez, Y.~Tassa,
+  D.~Silver, and D.~Wierstra.
+\newblock Continuous control with deep reinforcement learning, 2019.
+
+\bibitem[Mnih et~al.(2013)Mnih, Kavukcuoglu, Silver, Graves, Antonoglou,
+  Wierstra, and Riedmiller]{GoogleAtari}
+V.~Mnih, K.~Kavukcuoglu, D.~Silver, A.~Graves, I.~Antonoglou, D.~Wierstra, and
+  M.~Riedmiller.
+\newblock Playing atari with deep reinforcement learning.
+\newblock \emph{CoRR}, abs/1312.5602, 2013.
+
+\bibitem[Mnih et~al.(2016)Mnih, Badia, Mirza, Graves, Lillicrap, Harley,
+  Silver, and Kavukcuoglu]{Mnih2016A2C}
+V.~Mnih, A.~P. Badia, M.~Mirza, A.~Graves, T.~P. Lillicrap, T.~Harley,
+  D.~Silver, and K.~Kavukcuoglu.
+\newblock Asynchronous methods for deep reinforcement learning.
+\newblock \emph{CoRR}, abs/1602.01783, 2016.
+\newblock URL \url{http://arxiv.org/abs/1602.01783}.
+
+\bibitem[Park and Irwin(2007)]{Park2007}
+C.-H. Park and S.~H. Irwin.
+\newblock What do we know about the profitability of technical analysis?
+\newblock \emph{Journal of Economic Surveys}, 21\penalty0 (4):\penalty0
+  786--826, 2007.
+\newblock \doi{https://doi.org/10.1111/j.1467-6419.2007.00519.x}.
+
+\bibitem[Rasmussen and Williams(2006)]{Rasmussen2006}
+C.~E. Rasmussen and C.~K.~I. Williams.
+\newblock \emph{Gaussian Processes for Machine Learning}.
+\newblock MIT Press, 2006.
+
+\bibitem[Schulman et~al.(2017)Schulman, Wolski, Dhariwal, Radford, and
+  Klimov]{Schulman2017}
+J.~Schulman, F.~Wolski, P.~Dhariwal, A.~Radford, and O.~Klimov.
+\newblock Proximal policy optimization algorithms.
+\newblock \emph{CoRR}, abs/1707.06347, 2017.
+\newblock URL \url{http://arxiv.org/abs/1707.06347}.
+
+\bibitem[Silver et~al.(2014)Silver, Lever, Heess, Degris, Wierstra, and
+  Riedmiller]{Silver2014}
+D.~Silver, G.~Lever, N.~Heess, T.~Degris, D.~Wierstra, and M.~Riedmiller.
+\newblock Deterministic policy gradient algorithms.
+\newblock \emph{31st International Conference on Machine Learning, ICML 2014},
+  1, 06 2014.
+
+\bibitem[Silver et~al.(2016)Silver, Huang, Maddison, Guez, Sifre, van~den
+  Driessche, Schrittwieser, Antonoglou, Panneershelvam, Lanctot, Dieleman,
+  Grewe, Nham, Kalchbrenner, Sutskever, Lillicrap, Leach, Kavukcuoglu, Graepel,
+  and Hassabis]{AlphaGo}
+D.~Silver, A.~Huang, C.~J. Maddison, A.~Guez, L.~Sifre, G.~van~den Driessche,
+  J.~Schrittwieser, I.~Antonoglou, V.~Panneershelvam, M.~Lanctot, S.~Dieleman,
+  D.~Grewe, J.~Nham, N.~Kalchbrenner, I.~Sutskever, T.~Lillicrap, M.~Leach,
+  K.~Kavukcuoglu, T.~Graepel, and D.~Hassabis.
+\newblock Mastering the game of go with deep neural networks and tree search.
+\newblock \emph{Nature}, 529:\penalty0 484–489, 2016.
+
+\bibitem[Silver et~al.(2017)Silver, Schrittwieser, Simonyan, Antonoglou, Huang,
+  Guez, Hubert, Baker, Lai, Bolton, Chen, Lillicrap, Hui, Sifre, van~den
+  Driessche, Graepel, and Hassabis]{Silver2017}
+D.~Silver, J.~Schrittwieser, K.~Simonyan, I.~Antonoglou, A.~Huang, A.~Guez,
+  T.~Hubert, L.~Baker, M.~Lai, A.~Bolton, Y.~Chen, T.~Lillicrap, F.~Hui,
+  L.~Sifre, G.~van~den Driessche, T.~Graepel, and D.~Hassabis.
+\newblock Mastering the game of go without human knowledge.
+\newblock \emph{Nature}, 550:\penalty0 354--359, 2017.
+
+\bibitem[Sutton and Barto(2018)]{SuttonBarto}
+R.~S. Sutton and A.~G. Barto.
+\newblock \emph{Reinforcement Learning: An Introduction}.
+\newblock MIT Press, Cambridge, MA, USA, 2nd edition, 2018.
+
+\bibitem[Wang and Zhou(2019)]{Wang2019}
+H.~Wang and X.~Zhou.
+\newblock Large scale continuous-time mean-variance portfolio allocation via
+  reinforcement learning.
+\newblock \emph{SSRN Electronic Journal}, 07 2019.
+\newblock \doi{10.2139/ssrn.3428125}.
+
+\bibitem[Watkins and Dayan(1992)]{WatkinsDayan}
+C.~J. Watkins and P.~Dayan.
+\newblock Q-learning.
+\newblock \emph{Machine Learning}, 8:\penalty0 272--292, 1992.
+
+\bibitem[Wilkens(2019)]{Wilkens2019}
+S.~Wilkens.
+\newblock Machine learning in risk measurement: Gaussian process regression for
+  value-at-risk and expected shortfall.
+\newblock \emph{Journal of Risk Management in Financial Institutions},
+  12:\penalty0 374--383, 2019.
+
+\bibitem[Yang et~al.(2020)Yang, Liu, Zhong, and Walid]{Yang2020}
+H.~Yang, X.-Y. Liu, S.~Zhong, and A.~Walid.
+\newblock Deep reinforcement learning for automated stock trading: An ensemble
+  strategy.
+\newblock \emph{SSRN Electronic Journal}, 01 2020.
+\newblock \doi{10.2139/ssrn.3690996}.
+
+\end{thebibliography}

@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+The style file: abbrvnat.bst
+Database file #1: report.bib
+Warning--empty journal in Farrel2007
+You've used 22 entries,
+            2773 wiz_defined-function locations,
+            745 strings with 9633 characters,
+and the built_in function-call counts, 13447 in all, are:
+= -- 1077
+> -- 1233
+< -- 9
++ -- 411
+- -- 389
+* -- 1246
+:= -- 2180
+add.period$ -- 75
+call.type$ -- 22
+change.case$ -- 193
+chr.to.int$ -- 22
+cite$ -- 45
+duplicate$ -- 452
+empty$ -- 808
+format.name$ -- 423
+if$ -- 2714
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 21
+newline$ -- 126
+num.names$ -- 90
+pop$ -- 377
+preamble$ -- 1
+purify$ -- 172
+quote$ -- 0
+skip$ -- 423
+stack$ -- 0
+substring$ -- 278
+swap$ -- 42
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 232
+warning$ -- 1
+while$ -- 78
+width$ -- 0
+write$ -- 303
+(There was 1 warning)
